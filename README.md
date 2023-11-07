@@ -1,5 +1,7 @@
 Overview
-This repository contains an Excel VBA script designed to analyze stock data across multiple spreadsheets within a single workbook. The script calculates the yearly change, percent change, and total stock volume for a list of stocks. It also identifies the stock with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
+This repository contains an Excel VBA script designed to analyze stock data across multiple spreadsheets within a single workbook. 
+The script calculates the yearly change, percent change, and total stock volume for a list of stocks. 
+It also identifies the stock with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
 
 Contents
 - Multiple_year_stock_data_RoxanaDarvari.vbs and Multiple_year_stock_data_RoxanaDarvari.bas: The VBA script that performs the analysis.
