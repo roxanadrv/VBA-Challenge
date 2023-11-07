@@ -7,12 +7,13 @@ Contents
 - Screenshots: containing screenshots of each tab in the workbooks after the script has been run.
 
 How to Use
-•	Open the desired Excel workbook.
-•	Go to Developer menu and open the Visual Basic.
-•	Import the Multiple_year_stock_data_RoxanaDarvari.vbs file into the VBA editor.
-•	Run the AnalyzeStockSheet subroutine.
-•	A message box will appear upon completion of the script, indicating that the analysis is complete.
-•	Review the results in each worksheet which will include:
+- Open the desired Excel workbook.
+- Go to Developer menu and open the Visual Basic.
+- Import the Multiple_year_stock_data_RoxanaDarvari.vbs file into the VBA editor.
+- Run the AnalyzeStockSheet subroutine.
+- A message box will appear upon completion of the script, indicating that the analysis is complete.
+- Review the results in each worksheet which will include:
+  
       o	The "Ticker" column showing the stock symbol.
       o	The "Yearly Change" column showing the difference between the opening price at the beginning of the year and the closing price at the end.
       o	The "Percent Change" column showing the percentage change from the opening price at the start of the year to the closing price at the end.
